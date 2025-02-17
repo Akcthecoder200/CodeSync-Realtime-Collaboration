@@ -23,7 +23,7 @@ objective of the Real-time Code Collaboration Platform is to create an interacti
 ## Features
 
 **Features implemented so far:**
-1. A basic prototype with a responsive and modern UI.
+1. A basic prototype with a responsive and modern UI using tailwind css.
 2. Data modeling for rooms and users.
 3. Implemented Socket.IO for code synchronization and chat functionalities:
 <ul type="none">
